@@ -10,7 +10,7 @@ I'm a passionate Frontend Developer focused on building clean, responsive, and a
 - I’m currently learning advanced UI testing, API integration strategies, and improving my design-to-code workflow
 - I’m looking to collaborate on frontend-focused web applications, especially those that value performance and user experience
 - I’m looking for help with growing as a full-stack developer while continuing to refine my frontend expertise
-- Ask me about frontend best practices, UI architecture, responsive design, or building real-world React applications
+- Ask me about frontend best practices, responsive design, or building real-world React applications
 
 ---
 
