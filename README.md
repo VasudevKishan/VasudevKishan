@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hello, I'm Vasudev
 
-<!--
-**VasudevKishan/VasudevKishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer focused on building clean, responsive, and accessible user interfaces. I enjoy translating real-world requirements into thoughtful, well-structured code and crafting experiences that are as elegant as they are functional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Currently Doing
+
+- I’m currently working on personal frontend projects to strengthen my UI development skills
+- I’m currently learning advanced UI testing, API integration strategies, and improving my design-to-code workflow
+- I’m looking to collaborate on frontend-focused web applications, especially those that value performance and user experience
+- I’m looking for help with growing as a full-stack developer while continuing to refine my frontend expertise
+- Ask me about frontend best practices, UI architecture, responsive design, or building real-world React applications
+
+---
+
+### How to Reach Me
+
+- LinkedIn: [linkedin.com/in/vasudevkishankumar](https://www.linkedin.com/in/vasudevkishan/)
+- Email: vasudevkishan@gmail.com
+
+---
+
+### Fun Fact
+
+Most of my learning comes from breaking and fixing things — I believe the best developers are always curious and never stop experimenting.
